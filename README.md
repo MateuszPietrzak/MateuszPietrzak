@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MateuszPietrzak
-- 👀 I’m interested in Programming and 3D Printing
-- 🌱 I’m currently learning that life is hard
+3rd highscool in Gdynia, Poland student
+-Favorite language is c++
+-UNIX supremacy
+-VIM user
 
 <!---
 MateuszPietrzak/MateuszPietrzak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
