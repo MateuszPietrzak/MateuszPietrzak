@@ -5,7 +5,7 @@
 
 C++ \
 Vim \
-Linux \
+Linux
 
 
 <!---
