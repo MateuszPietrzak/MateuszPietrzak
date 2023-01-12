@@ -1,11 +1,12 @@
 
 ## Mateusz Pietrzak
 
-3rd highscool in Gdynia, Poland
+#### 3rd highscool in Gdynia, Poland
 
- - Favorite language is c++
- - UNIX supremacy
- - VIM user
+C++ \
+Vim \
+Linux \
+
 
 <!---
 MateuszPietrzak/MateuszPietrzak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
