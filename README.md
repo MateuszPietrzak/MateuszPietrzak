@@ -1,7 +1,7 @@
 
 ## Mateusz Pietrzak
 
-#### 3rd highscool in Gdynia, Poland
+Gdynia, Poland
 
 I love c++ and OpenGL, in my free time I enjoy cubing and logic puzzles
 
