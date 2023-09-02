@@ -1,7 +1,9 @@
 
 ## Mateusz Pietrzak
 
-Gdynia, Poland
+Delft, Netherlands
+
+Student at TU Delft
 
 I love c++ and OpenGL, in my free time I enjoy cubing and logic puzzles
 
