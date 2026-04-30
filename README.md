@@ -1,11 +1,33 @@
 
 ## Mateusz Pietrzak
 
-Delft, Netherlands
+The Hague, The Netherlands
 
-Student at TU Delft
+Bachelor of Computer Science and Engineering student at TU Delft.
 
-I love c++ and OpenGL, in my free time I enjoy cubing and logic puzzles
+Working as a Developer at Solibri.
+
+### Things I like
+- Haskell
+- Rust
+- Graphics APIs
+- Shaders
+- OCaml
+- Blender
+- Postgres
+
+### Things I have work experience with, but not necessairly like
+- Typescript
+- THREE.js
+- Vue.js
+- .NET and ASP.NET
+
+### Things I dislike
+- Python
+- MS Teams
+- JavaScript
+
+Feel free to message me at mateusz.jerzy.pietrzak@gmail.com
 
 <!---
 MateuszPietrzak/MateuszPietrzak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
